@@ -1,0 +1,5 @@
+[Config]
+bunchofnumbers=7N0O6S3E2H6S57O1T3T6I2M5B8U5S6
+[Objects]
+957019=1,,1,1,,3460,cckrtsse001_altar.esl,-1,-1,,1,,3460,cckrtsse001_altar.esl
+1=
